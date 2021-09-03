@@ -1,0 +1,244 @@
+,location,Description,resultId
+0,Abu Dhabi,Accident,5
+1,Abu Dhabi,Chassis,4
+2,Abu Dhabi,Control System,3
+3,Abu Dhabi,Engine,6
+4,Abu Dhabi,Finished,122
+5,Abu Dhabi,Lapped,80
+6,Abu Dhabi,Mechanical,1
+7,Abu Dhabi,Other,2
+8,Abu Dhabi,Transmission,3
+9,Abu Dhabi,Wheel Assembly,3
+10,Austin,Accident,6
+11,Austin,Chassis,3
+12,Austin,Engine,6
+13,Austin,Finished,79
+14,Austin,Lapped,55
+15,Austin,Other,3
+16,Austin,Transmission,2
+17,Austin,Wheel Assembly,4
+18,Baku,Accident,7
+19,Baku,Chassis,4
+20,Baku,Control System,2
+21,Baku,Engine,2
+22,Baku,Finished,45
+23,Baku,Lapped,15
+24,Baku,Transmission,2
+25,Baku,Wheel Assembly,3
+26,Budapest,Accident,5
+27,Budapest,Chassis,4
+28,Budapest,Control System,6
+29,Budapest,Engine,4
+30,Budapest,Finished,88
+31,Budapest,Lapped,115
+32,Budapest,Other,3
+33,Budapest,Transmission,7
+34,Budapest,Wheel Assembly,3
+35,Hockenheim,Accident,6
+36,Hockenheim,Chassis,2
+37,Hockenheim,Control System,1
+38,Hockenheim,Engine,6
+39,Hockenheim,Finished,61
+40,Hockenheim,Lapped,48
+41,Hockenheim,Other,1
+42,Hockenheim,Transmission,3
+43,Hockenheim,Wheel Assembly,1
+44,Imola,Accident,3
+45,Imola,Control System,1
+46,Imola,Driver Safety,1
+47,Imola,Finished,28
+48,Imola,Lapped,3
+49,Imola,Transmission,2
+50,Imola,Wheel Assembly,1
+51,Istanbul,Accident,3
+52,Istanbul,Control System,3
+53,Istanbul,Finished,34
+54,Istanbul,Lapped,23
+55,Istanbul,Mechanical,1
+56,Istanbul,Other,2
+57,Istanbul,Transmission,1
+58,Kuala Lumpur,Accident,6
+59,Kuala Lumpur,Control System,2
+60,Kuala Lumpur,Engine,11
+61,Kuala Lumpur,Finished,79
+62,Kuala Lumpur,Lapped,57
+63,Kuala Lumpur,Other,6
+64,Kuala Lumpur,Transmission,4
+65,Kuala Lumpur,Wheel Assembly,7
+66,Le Castellet,Engine,1
+67,Le Castellet,Finished,16
+68,Le Castellet,Lapped,18
+69,Le Castellet,Other,1
+70,Le Castellet,Wheel Assembly,2
+71,Marina Bay,Accident,18
+72,Marina Bay,Control System,10
+73,Marina Bay,Engine,4
+74,Marina Bay,Finished,119
+75,Marina Bay,Lapped,49
+76,Marina Bay,Mechanical,1
+77,Marina Bay,Other,2
+78,Marina Bay,Transmission,5
+79,Marina Bay,Wheel Assembly,2
+80,Melbourne,Accident,11
+81,Melbourne,Chassis,3
+82,Melbourne,Control System,9
+83,Melbourne,DQed,2
+84,Melbourne,Engine,12
+85,Melbourne,Finished,97
+86,Melbourne,Lapped,50
+87,Melbourne,Mechanical,1
+88,Melbourne,Transmission,3
+89,Melbourne,Wheel Assembly,8
+90,Mexico City,Accident,2
+91,Mexico City,Chassis,1
+92,Mexico City,Control System,1
+93,Mexico City,Engine,6
+94,Mexico City,Finished,40
+95,Mexico City,Lapped,46
+96,Mexico City,Mechanical,1
+97,Mexico City,Other,1
+98,Mexico City,Wheel Assembly,2
+99,Monte-Carlo,Accident,28
+100,Monte-Carlo,Chassis,3
+101,Monte-Carlo,Control System,4
+102,Monte-Carlo,Engine,5
+103,Monte-Carlo,Finished,105
+104,Monte-Carlo,Lapped,49
+105,Monte-Carlo,Mechanical,2
+106,Monte-Carlo,Other,4
+107,Monte-Carlo,Transmission,6
+108,Monte-Carlo,Wheel Assembly,5
+109,Montmeló,Accident,9
+110,Montmeló,Chassis,3
+111,Montmeló,Control System,3
+112,Montmeló,Engine,6
+113,Montmeló,Finished,84
+114,Montmeló,Lapped,133
+115,Montmeló,Mechanical,2
+116,Montmeló,Transmission,4
+117,Montmeló,Wheel Assembly,5
+118,Montreal,Accident,11
+119,Montreal,Chassis,8
+120,Montreal,Control System,2
+121,Montreal,Engine,8
+122,Montreal,Finished,81
+123,Montreal,Lapped,91
+124,Montreal,Mechanical,1
+125,Montreal,Other,5
+126,Montreal,Transmission,1
+127,Montreal,Wheel Assembly,3
+128,Monza,Accident,4
+129,Monza,Chassis,1
+130,Monza,Control System,2
+131,Monza,Engine,12
+132,Monza,Finished,117
+133,Monza,Lapped,79
+134,Monza,Mechanical,1
+135,Monza,Other,1
+136,Monza,Transmission,6
+137,Monza,Wheel Assembly,4
+138,Mugello,Accident,4
+139,Mugello,Finished,12
+140,Mugello,Wheel Assembly,2
+141,Nürburg,Accident,3
+142,Nürburg,Control System,3
+143,Nürburg,Engine,4
+144,Nürburg,Finished,36
+145,Nürburg,Lapped,18
+146,Nürburg,Transmission,2
+147,Portimão,Accident,1
+148,Portimão,Finished,15
+149,Portimão,Lapped,23
+150,Sakhir,Accident,5
+151,Sakhir,Chassis,2
+152,Sakhir,Control System,7
+153,Sakhir,Engine,8
+154,Sakhir,Finished,134
+155,Sakhir,Lapped,68
+156,Sakhir,Mechanical,1
+157,Sakhir,Other,8
+158,Sakhir,Transmission,4
+159,Sakhir,Wheel Assembly,5
+160,Shanghai,Accident,5
+161,Shanghai,Chassis,1
+162,Shanghai,Control System,2
+163,Shanghai,Engine,3
+164,Shanghai,Finished,121
+165,Shanghai,Lapped,69
+166,Shanghai,Mechanical,1
+167,Shanghai,Other,1
+168,Shanghai,Transmission,5
+169,Shanghai,Wheel Assembly,4
+170,Silverstone,Accident,12
+171,Silverstone,Chassis,1
+172,Silverstone,Control System,3
+173,Silverstone,Engine,3
+174,Silverstone,Finished,149
+175,Silverstone,Lapped,59
+176,Silverstone,Other,3
+177,Silverstone,Transmission,7
+178,Silverstone,Wheel Assembly,6
+179,Sochi,Accident,3
+180,Sochi,Chassis,2
+181,Sochi,Control System,1
+182,Sochi,Engine,2
+183,Sochi,Finished,68
+184,Sochi,Lapped,48
+185,Sochi,Wheel Assembly,7
+186,Spa,Accident,9
+187,Spa,Chassis,2
+188,Spa,Engine,7
+189,Spa,Finished,146
+190,Spa,Lapped,42
+191,Spa,Other,3
+192,Spa,Transmission,4
+193,Spa,Wheel Assembly,3
+194,Spielburg,Accident,2
+195,Spielburg,Chassis,3
+196,Spielburg,Control System,6
+197,Spielburg,Engine,5
+198,Spielburg,Finished,58
+199,Spielburg,Lapped,69
+200,Spielburg,Mechanical,4
+201,Spielburg,Other,2
+202,Spielburg,Transmission,1
+203,Spielburg,Wheel Assembly,8
+204,Suzuka,Accident,5
+205,Suzuka,Chassis,2
+206,Suzuka,DQed,2
+207,Suzuka,Engine,4
+208,Suzuka,Finished,106
+209,Suzuka,Lapped,80
+210,Suzuka,Mechanical,1
+211,Suzuka,Other,1
+212,Suzuka,Transmission,1
+213,Suzuka,Wheel Assembly,4
+214,São Paulo,Accident,12
+215,São Paulo,Chassis,2
+216,São Paulo,Engine,3
+217,São Paulo,Finished,92
+218,São Paulo,Lapped,89
+219,São Paulo,Mechanical,2
+220,São Paulo,Other,5
+221,São Paulo,Transmission,1
+222,Uttar Pradesh,Accident,3
+223,Uttar Pradesh,Chassis,1
+224,Uttar Pradesh,Control System,1
+225,Uttar Pradesh,Engine,2
+226,Uttar Pradesh,Finished,33
+227,Uttar Pradesh,Lapped,25
+228,Uttar Pradesh,Mechanical,1
+229,Uttar Pradesh,Other,1
+230,Uttar Pradesh,Transmission,1
+231,Valencia,Accident,5
+232,Valencia,Chassis,1
+233,Valencia,Control System,1
+234,Valencia,Finished,38
+235,Valencia,Lapped,25
+236,Valencia,Transmission,1
+237,Yeongam County,Accident,13
+238,Yeongam County,Control System,2
+239,Yeongam County,Engine,1
+240,Yeongam County,Finished,56
+241,Yeongam County,Lapped,19
+242,Yeongam County,Transmission,1

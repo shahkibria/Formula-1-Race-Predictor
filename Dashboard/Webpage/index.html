@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Race Predictions</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+        <link rel="stylesheet" href="static/css/style.css"> 
+         <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <link rel="preload" href="Formula1-Display-Regular.woff2" as="font" type="font/woff2">
+
+      
+</head>
+<body class="bg-white your-style main_con">
+    <!-- <div class="wrapper"> -->
+        <div class="container" >
+            <div class="jumbotron">
+                <h1 class="display-4">Are Formula 1 Races too Predictable?</h1>
+                <p class="lead">Critics, Fans and Athletes all believe F1 lost its thrill and is too predictable.</p>
+                <hr class="my-4">
+                <h4>Click below buttons to explore deeper analyses</h4>
+                <p>
+                  <button class="myButton" onclick="location.href='https://public.tableau.com/app/profile/shah.kibria/viz/F1MLModelPerformanceSummary/Story1';">ML models</button>
+                  <button class="myButton" onclick="location.href='https://public.tableau.com/views/ProjectDashboard_16276241496350/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link';">Analysis storyboard</button>
+                  <button class="myButton" onclick="location.href='https://docs.google.com/presentation/d/1u97TjOL777yrLXLrih05Ko4bS8BsdLjE_jCYlDLDVe8/edit?usp=sharing';">Summary deck</button>
+                </p>
+            </div>
+        </div>
+        <!-- <nav class="navbar navbar-white bg-white navbar-expand-lg">
+            <a class="navbar-brand" href="index.html">2019 Race Predictor</a>
+        </nav> -->
+        
+        <!-- <div class="jumbotron">
+            <h1 class="display-4">Is Formula 1 too Predictable?</h1>
+        </div> -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4" style="text-align: center;">
+                    <h3>Select Circuit and Driver below</h3>
+                    <label for="selectCircuit">Circuit</label>
+                    <select id="selectCircuit" onchange="selectCircuit(this.value)" class="select" style="color: black;"></select>
+                    <br>
+                    <label for="selectDriver">Driver</label>
+                    <select id="selectDriver" onchange="selectDriver(this.value)" class="select" style="color: black;"></select>
+            </div>
+            <div class="col-md-8" style="text-align: center;">
+                <p>
+                    In recent years Formula 1 has faced and continues to face harsh criticisms that the races are far too predictable. The team decided to put this criticism to the test but building multiple models and comparing the results to the official 2019 race results. <br><br> TWO models were used because the SVM model did a better job predicting who cames first while the Random forest models does a better job of predicting which bin a given racer falls into. Bins are position groups which racers fall into with bin 1 being racers that finish in the top 3, bin 2 being racers 4-6, bin 3 being racers 7-10 and bin 4 being racers 10 onwards.
+                </p>
+            </div>
+
+            </div>
+        </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- <form>
+                    <p> Filter Search</p>
+                    <ul class="list-group bg-white">
+                        <li>
+                            <label for="date">Enter Circuit</label>
+                            <input type="text" placeholder="Australian Grand Prix" id="Circuit"/>
+                        </li>
+                        <li>
+                            <label for="city">Enter Driver</label>
+                            <input type="text" placeholder="Lewis Hamilton" id="Driver_Name" />
+                        </li>
+
+                    </ul>
+                </form> -->
+            <div id="map" style="width: 600px; height: 400px"></div>
+                <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+                integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+                crossorigin=""></script>
+            </div>
+            <div class="col-md-6">
+            <div style="margin-left: 15%;"><h2>Race characteristics</h2></div>
+            <br>   
+            <div id="speed"></div>
+            <hr>
+            <div id="weather" class="font18"></div>
+            <hr>
+            <div id="gauge"></div>
+            </div>  
+            </div>
+            <div class="row">
+                <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Circuit</th>
+                            <th>Constructor</th>
+                            <th>Official Position</th>
+                            <th>Official Bin</th>
+                            <th>Predicted Position (SVM)</th>
+                            <th>Predicted Bin (SVM)</th>
+                            <th>Predicted Position (RNF)</th>
+                            <th>Predicted Bin (RNF)</th>
+                            <th>Driver</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="col-md-2"></div>
+            </div>
+        </div>
+    </div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/srip" title="srip">srip</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <script src="chart.js"></script>
+    <script src="map.js"></script>  
+</body>
+</html>

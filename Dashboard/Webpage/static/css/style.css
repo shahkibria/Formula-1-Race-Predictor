@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Formula1 Display';
+    src: url('Formula1-Display-Regular.eot');
+    src: url('Formula1-Display-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../Formula1-Display-Regular.woff2') format('woff2'),
+        url('Formula1-Display-Regular.woff') format('woff'),
+        url('Formula1-Display-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.your-style {
+    font-family: 'Formula1 Display';
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    color: #ffffff
+}
+
+.main_con{
+	background-image: url("../images/streaks.jpg");
+	background-size:cover;
+    background-position: center center;
+}
+
+.jumbotron {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    background-color: rgb(255, 255, 255);
+    background-size: 100% 100%;
+    text-align: center;
+    background-image: url("../images/unsplash1.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:4px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Formula1 Display';
+   	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.font18
+{
+	font-size: 18px;
+	font-weight: bolder;
+	text-align:justify;
+	margin-left: 15%;
+}

@@ -1,0 +1,421 @@
+,resultId,name,driverRef,constructorRef,Outcome,Bin,CL_Outcome,CL_Bin
+2,24203,Australian Grand Prix,bottas,mercedes,1,1,3,1
+0,24204,Australian Grand Prix,hamilton,mercedes,2,1,1,1
+4,24205,Australian Grand Prix,max_verstappen,red_bull,3,1,5,2
+1,24206,Australian Grand Prix,vettel,ferrari,4,2,2,1
+5,24207,Australian Grand Prix,leclerc,ferrari,5,2,6,2
+6,24208,Australian Grand Prix,kevin_magnussen,haas,6,2,7,3
+10,24209,Australian Grand Prix,hulkenberg,renault,7,3,11,4
+7,24210,Australian Grand Prix,raikkonen,alfa,8,3,8,3
+15,24211,Australian Grand Prix,stroll,racing_point,9,3,16,4
+14,24212,Australian Grand Prix,kvyat,toro_rosso,10,3,15,4
+16,24213,Australian Grand Prix,gasly,red_bull,11,4,17,4
+8,24214,Australian Grand Prix,norris,mclaren,12,4,9,3
+9,24215,Australian Grand Prix,perez,racing_point,13,4,10,3
+12,24216,Australian Grand Prix,albon,toro_rosso,14,4,13,4
+13,24217,Australian Grand Prix,giovinazzi,alfa,15,4,14,4
+19,24218,Australian Grand Prix,russell,williams,16,4,20,4
+18,24219,Australian Grand Prix,kubica,williams,17,4,19,4
+3,24220,Australian Grand Prix,grosjean,haas,0,4,4,2
+11,24221,Australian Grand Prix,ricciardo,renault,0,4,12,4
+17,24222,Australian Grand Prix,sainz,mclaren,0,4,18,4
+21,24223,Bahrain Grand Prix,hamilton,mercedes,1,1,2,1
+23,24224,Bahrain Grand Prix,bottas,mercedes,2,1,4,2
+22,24225,Bahrain Grand Prix,leclerc,ferrari,3,1,3,1
+24,24226,Bahrain Grand Prix,max_verstappen,red_bull,4,2,5,2
+20,24227,Bahrain Grand Prix,vettel,ferrari,5,2,1,1
+29,24228,Bahrain Grand Prix,norris,mclaren,6,2,10,3
+26,24229,Bahrain Grand Prix,raikkonen,alfa,7,3,7,3
+32,24230,Bahrain Grand Prix,gasly,red_bull,8,3,13,4
+31,24231,Bahrain Grand Prix,albon,toro_rosso,9,3,12,4
+33,24232,Bahrain Grand Prix,perez,racing_point,10,3,14,4
+35,24233,Bahrain Grand Prix,giovinazzi,alfa,11,4,16,4
+34,24234,Bahrain Grand Prix,kvyat,toro_rosso,12,4,15,4
+25,24235,Bahrain Grand Prix,kevin_magnussen,haas,13,4,6,2
+37,24236,Bahrain Grand Prix,stroll,racing_point,14,4,18,4
+39,24237,Bahrain Grand Prix,russell,williams,15,4,20,4
+38,24238,Bahrain Grand Prix,kubica,williams,16,4,19,4
+36,24239,Bahrain Grand Prix,hulkenberg,renault,0,4,17,4
+30,24240,Bahrain Grand Prix,ricciardo,renault,0,4,11,4
+27,24241,Bahrain Grand Prix,sainz,mclaren,0,4,8,3
+28,24242,Bahrain Grand Prix,grosjean,haas,0,4,9,3
+40,24243,Chinese Grand Prix,hamilton,mercedes,1,1,1,1
+42,24244,Chinese Grand Prix,bottas,mercedes,2,1,3,1
+43,24245,Chinese Grand Prix,vettel,ferrari,3,1,4,2
+45,24246,Chinese Grand Prix,max_verstappen,red_bull,4,2,6,2
+44,24247,Chinese Grand Prix,leclerc,ferrari,5,2,5,2
+46,24248,Chinese Grand Prix,gasly,red_bull,6,2,7,3
+47,24249,Chinese Grand Prix,ricciardo,renault,7,3,8,3
+53,24250,Chinese Grand Prix,perez,racing_point,8,3,14,4
+51,24251,Chinese Grand Prix,raikkonen,alfa,9,3,12,4
+41,24252,Chinese Grand Prix,albon,toro_rosso,10,3,2,1
+48,24253,Chinese Grand Prix,grosjean,haas,11,4,9,3
+56,24254,Chinese Grand Prix,stroll,racing_point,12,4,17,4
+50,24255,Chinese Grand Prix,kevin_magnussen,haas,13,4,11,4
+54,24256,Chinese Grand Prix,sainz,mclaren,14,4,15,4
+59,24257,Chinese Grand Prix,giovinazzi,alfa,15,4,20,4
+58,24258,Chinese Grand Prix,russell,williams,16,4,19,4
+57,24259,Chinese Grand Prix,kubica,williams,17,4,18,4
+55,24260,Chinese Grand Prix,norris,mclaren,18,4,16,4
+52,24261,Chinese Grand Prix,kvyat,toro_rosso,0,4,13,4
+49,24262,Chinese Grand Prix,hulkenberg,renault,0,4,10,3
+64,24263,Azerbaijan Grand Prix,bottas,mercedes,1,1,5,2
+62,24264,Azerbaijan Grand Prix,hamilton,mercedes,2,1,3,1
+65,24265,Azerbaijan Grand Prix,vettel,ferrari,3,1,6,2
+66,24266,Azerbaijan Grand Prix,max_verstappen,red_bull,4,2,7,3
+70,24267,Azerbaijan Grand Prix,leclerc,ferrari,5,2,11,4
+67,24268,Azerbaijan Grand Prix,perez,racing_point,6,2,8,3
+71,24269,Azerbaijan Grand Prix,sainz,mclaren,7,3,12,4
+69,24270,Azerbaijan Grand Prix,norris,mclaren,8,3,10,3
+76,24271,Azerbaijan Grand Prix,stroll,racing_point,9,3,17,4
+60,24272,Azerbaijan Grand Prix,raikkonen,alfa,10,3,1,1
+73,24273,Azerbaijan Grand Prix,albon,toro_rosso,11,4,14,4
+79,24274,Azerbaijan Grand Prix,giovinazzi,alfa,12,4,20,4
+74,24275,Azerbaijan Grand Prix,kevin_magnussen,haas,13,4,15,4
+77,24276,Azerbaijan Grand Prix,hulkenberg,renault,14,4,18,4
+78,24277,Azerbaijan Grand Prix,russell,williams,15,4,19,4
+61,24278,Azerbaijan Grand Prix,kubica,williams,16,4,2,1
+63,24279,Azerbaijan Grand Prix,gasly,red_bull,0,4,4,2
+75,24280,Azerbaijan Grand Prix,grosjean,haas,0,4,16,4
+68,24281,Azerbaijan Grand Prix,kvyat,toro_rosso,0,4,9,3
+72,24282,Azerbaijan Grand Prix,ricciardo,renault,0,4,13,4
+80,24283,Spanish Grand Prix,hamilton,mercedes,1,1,1,1
+82,24284,Spanish Grand Prix,bottas,mercedes,2,1,3,1
+84,24285,Spanish Grand Prix,max_verstappen,red_bull,3,1,5,2
+83,24286,Spanish Grand Prix,vettel,ferrari,4,2,4,2
+86,24287,Spanish Grand Prix,leclerc,ferrari,5,2,7,3
+87,24288,Spanish Grand Prix,gasly,red_bull,6,2,8,3
+88,24289,Spanish Grand Prix,kevin_magnussen,haas,7,3,9,3
+93,24290,Spanish Grand Prix,sainz,mclaren,8,3,14,4
+89,24291,Spanish Grand Prix,kvyat,toro_rosso,9,3,10,3
+85,24292,Spanish Grand Prix,grosjean,haas,10,3,6,2
+91,24293,Spanish Grand Prix,albon,toro_rosso,11,4,12,4
+94,24294,Spanish Grand Prix,ricciardo,renault,12,4,15,4
+81,24295,Spanish Grand Prix,hulkenberg,renault,13,4,2,1
+92,24296,Spanish Grand Prix,raikkonen,alfa,14,4,13,4
+95,24297,Spanish Grand Prix,perez,racing_point,15,4,16,4
+98,24298,Spanish Grand Prix,giovinazzi,alfa,16,4,19,4
+99,24299,Spanish Grand Prix,russell,williams,17,4,20,4
+96,24300,Spanish Grand Prix,kubica,williams,18,4,17,4
+97,24301,Spanish Grand Prix,stroll,racing_point,0,4,18,4
+90,24302,Spanish Grand Prix,norris,mclaren,0,4,11,4
+100,24306,Monaco Grand Prix,hamilton,mercedes,1,1,1,1
+102,24307,Monaco Grand Prix,vettel,ferrari,2,1,3,1
+101,24308,Monaco Grand Prix,bottas,mercedes,3,1,2,1
+103,24309,Monaco Grand Prix,max_verstappen,red_bull,4,2,4,2
+107,24310,Monaco Grand Prix,gasly,red_bull,5,2,8,3
+108,24311,Monaco Grand Prix,sainz,mclaren,6,2,9,3
+106,24312,Monaco Grand Prix,kvyat,toro_rosso,7,3,7,3
+109,24313,Monaco Grand Prix,albon,toro_rosso,8,3,10,3
+105,24314,Monaco Grand Prix,ricciardo,renault,9,3,6,2
+110,24315,Monaco Grand Prix,grosjean,haas,10,3,11,4
+113,24316,Monaco Grand Prix,norris,mclaren,11,4,14,4
+104,24317,Monaco Grand Prix,kevin_magnussen,haas,14,4,5,2
+115,24318,Monaco Grand Prix,perez,racing_point,12,4,16,4
+111,24319,Monaco Grand Prix,hulkenberg,renault,13,4,12,4
+119,24320,Monaco Grand Prix,russell,williams,15,4,20,4
+116,24321,Monaco Grand Prix,stroll,racing_point,16,4,17,4
+112,24322,Monaco Grand Prix,raikkonen,alfa,17,4,13,4
+118,24323,Monaco Grand Prix,kubica,williams,18,4,19,4
+117,24324,Monaco Grand Prix,giovinazzi,alfa,19,4,18,4
+114,24325,Monaco Grand Prix,leclerc,ferrari,0,4,15,4
+122,24326,Canadian Grand Prix,hamilton,mercedes,1,1,3,1
+120,24327,Canadian Grand Prix,vettel,ferrari,2,1,1,1
+123,24328,Canadian Grand Prix,leclerc,ferrari,3,1,4,2
+126,24329,Canadian Grand Prix,bottas,mercedes,4,2,7,3
+129,24330,Canadian Grand Prix,max_verstappen,red_bull,5,2,10,3
+124,24331,Canadian Grand Prix,ricciardo,renault,6,2,5,2
+127,24332,Canadian Grand Prix,hulkenberg,renault,7,3,8,3
+125,24333,Canadian Grand Prix,gasly,red_bull,8,3,6,2
+137,24334,Canadian Grand Prix,stroll,racing_point,9,3,18,4
+130,24335,Canadian Grand Prix,kvyat,toro_rosso,10,3,11,4
+131,24336,Canadian Grand Prix,sainz,mclaren,11,4,12,4
+136,24337,Canadian Grand Prix,perez,racing_point,12,4,17,4
+133,24338,Canadian Grand Prix,giovinazzi,alfa,13,4,14,4
+132,24339,Canadian Grand Prix,grosjean,haas,14,4,13,4
+135,24340,Canadian Grand Prix,raikkonen,alfa,15,4,16,4
+139,24341,Canadian Grand Prix,russell,williams,16,4,20,4
+121,24342,Canadian Grand Prix,kevin_magnussen,haas,17,4,2,1
+138,24343,Canadian Grand Prix,kubica,williams,18,4,19,4
+134,24344,Canadian Grand Prix,albon,toro_rosso,0,4,15,4
+128,24345,Canadian Grand Prix,norris,mclaren,0,4,9,3
+140,24346,French Grand Prix,hamilton,mercedes,1,1,1,1
+141,24347,French Grand Prix,bottas,mercedes,2,1,2,1
+142,24348,French Grand Prix,leclerc,ferrari,3,1,3,1
+143,24349,French Grand Prix,max_verstappen,red_bull,4,2,4,2
+145,24350,French Grand Prix,vettel,ferrari,5,2,6,2
+146,24351,French Grand Prix,sainz,mclaren,6,2,7,3
+150,24352,French Grand Prix,raikkonen,alfa,7,3,11,4
+152,24353,French Grand Prix,hulkenberg,renault,8,3,13,4
+144,24354,French Grand Prix,norris,mclaren,9,3,5,2
+148,24355,French Grand Prix,gasly,red_bull,10,3,9,3
+147,24356,French Grand Prix,ricciardo,renault,11,4,8,3
+153,24357,French Grand Prix,perez,racing_point,12,4,14,4
+157,24358,French Grand Prix,stroll,racing_point,13,4,18,4
+158,24359,French Grand Prix,kvyat,toro_rosso,14,4,19,4
+151,24360,French Grand Prix,albon,toro_rosso,15,4,12,4
+149,24361,French Grand Prix,giovinazzi,alfa,16,4,10,3
+155,24362,French Grand Prix,kevin_magnussen,haas,17,4,16,4
+156,24363,French Grand Prix,kubica,williams,18,4,17,4
+159,24364,French Grand Prix,russell,williams,19,4,20,4
+154,24365,French Grand Prix,grosjean,haas,20,4,15,4
+163,24366,Austrian Grand Prix,max_verstappen,red_bull,1,1,4,2
+161,24367,Austrian Grand Prix,leclerc,ferrari,2,1,2,1
+164,24368,Austrian Grand Prix,bottas,mercedes,3,1,5,2
+168,24369,Austrian Grand Prix,vettel,ferrari,4,2,9,3
+162,24370,Austrian Grand Prix,hamilton,mercedes,5,2,3,1
+166,24371,Austrian Grand Prix,norris,mclaren,6,2,7,3
+169,24372,Austrian Grand Prix,gasly,red_bull,7,3,10,3
+179,24373,Austrian Grand Prix,sainz,mclaren,8,3,20,4
+165,24374,Austrian Grand Prix,raikkonen,alfa,9,3,6,2
+167,24375,Austrian Grand Prix,giovinazzi,alfa,10,3,8,3
+173,24376,Austrian Grand Prix,perez,racing_point,11,4,14,4
+172,24377,Austrian Grand Prix,ricciardo,renault,12,4,13,4
+175,24378,Austrian Grand Prix,hulkenberg,renault,13,4,16,4
+174,24379,Austrian Grand Prix,stroll,racing_point,14,4,15,4
+178,24380,Austrian Grand Prix,albon,toro_rosso,15,4,19,4
+170,24381,Austrian Grand Prix,grosjean,haas,16,4,11,4
+177,24382,Austrian Grand Prix,kvyat,toro_rosso,17,4,18,4
+160,24383,Austrian Grand Prix,russell,williams,18,4,1,1
+171,24384,Austrian Grand Prix,kevin_magnussen,haas,19,4,12,4
+176,24385,Austrian Grand Prix,kubica,williams,20,4,17,4
+180,24386,British Grand Prix,hamilton,mercedes,1,1,1,1
+181,24387,British Grand Prix,bottas,mercedes,2,1,2,1
+182,24388,British Grand Prix,leclerc,ferrari,3,1,3,1
+185,24389,British Grand Prix,gasly,red_bull,4,2,6,2
+183,24390,British Grand Prix,max_verstappen,red_bull,5,2,4,2
+193,24391,British Grand Prix,sainz,mclaren,6,2,14,4
+186,24392,British Grand Prix,ricciardo,renault,7,3,7,3
+189,24393,British Grand Prix,raikkonen,alfa,8,3,10,3
+196,24394,British Grand Prix,kvyat,toro_rosso,9,3,17,4
+190,24395,British Grand Prix,hulkenberg,renault,10,3,11,4
+187,24396,British Grand Prix,norris,mclaren,11,4,8,3
+188,24397,British Grand Prix,albon,toro_rosso,12,4,9,3
+197,24398,British Grand Prix,stroll,racing_point,13,4,18,4
+199,24399,British Grand Prix,russell,williams,14,4,20,4
+198,24400,British Grand Prix,kubica,williams,15,4,19,4
+184,24401,British Grand Prix,vettel,ferrari,16,4,5,2
+194,24402,British Grand Prix,perez,racing_point,17,4,15,4
+191,24403,British Grand Prix,giovinazzi,alfa,0,4,12,4
+192,24404,British Grand Prix,grosjean,haas,0,4,13,4
+195,24405,British Grand Prix,kevin_magnussen,haas,0,4,16,4
+201,24406,German Grand Prix,max_verstappen,red_bull,1,1,2,1
+218,24407,German Grand Prix,vettel,ferrari,2,1,19,4
+213,24408,German Grand Prix,kvyat,toro_rosso,3,1,14,4
+214,24409,German Grand Prix,stroll,racing_point,4,2,15,4
+206,24410,German Grand Prix,sainz,mclaren,5,2,7,3
+216,24411,German Grand Prix,albon,toro_rosso,6,2,17,4
+204,24412,German Grand Prix,grosjean,haas,7,3,5,2
+211,24413,German Grand Prix,kevin_magnussen,haas,8,3,12,4
+200,24414,German Grand Prix,hamilton,mercedes,9,3,1,1
+215,24415,German Grand Prix,kubica,williams,10,3,16,4
+217,24416,German Grand Prix,russell,williams,11,4,18,4
+203,24417,German Grand Prix,raikkonen,alfa,12,4,4,2
+210,24418,German Grand Prix,giovinazzi,alfa,13,4,11,4
+205,24419,German Grand Prix,gasly,red_bull,14,4,6,2
+202,24420,German Grand Prix,bottas,mercedes,0,4,3,1
+208,24421,German Grand Prix,hulkenberg,renault,0,4,9,3
+209,24422,German Grand Prix,leclerc,ferrari,0,4,10,3
+219,24423,German Grand Prix,norris,mclaren,0,4,20,4
+212,24424,German Grand Prix,ricciardo,renault,0,4,13,4
+207,24425,German Grand Prix,perez,racing_point,0,4,8,3
+220,24426,Hungarian Grand Prix,hamilton,mercedes,1,1,1,1
+221,24427,Hungarian Grand Prix,max_verstappen,red_bull,2,1,2,1
+223,24428,Hungarian Grand Prix,vettel,ferrari,3,1,4,2
+224,24429,Hungarian Grand Prix,leclerc,ferrari,4,2,5,2
+229,24430,Hungarian Grand Prix,sainz,mclaren,5,2,10,3
+225,24431,Hungarian Grand Prix,gasly,red_bull,6,2,6,2
+228,24432,Hungarian Grand Prix,raikkonen,alfa,7,3,9,3
+222,24433,Hungarian Grand Prix,bottas,mercedes,8,3,3,1
+227,24434,Hungarian Grand Prix,norris,mclaren,9,3,8,3
+231,24435,Hungarian Grand Prix,albon,toro_rosso,10,3,12,4
+235,24436,Hungarian Grand Prix,perez,racing_point,11,4,16,4
+230,24437,Hungarian Grand Prix,hulkenberg,renault,12,4,11,4
+233,24438,Hungarian Grand Prix,kevin_magnussen,haas,13,4,14,4
+239,24439,Hungarian Grand Prix,ricciardo,renault,14,4,20,4
+232,24440,Hungarian Grand Prix,kvyat,toro_rosso,15,4,13,4
+234,24441,Hungarian Grand Prix,russell,williams,16,4,15,4
+238,24442,Hungarian Grand Prix,stroll,racing_point,17,4,19,4
+236,24443,Hungarian Grand Prix,giovinazzi,alfa,18,4,17,4
+237,24444,Hungarian Grand Prix,kubica,williams,19,4,18,4
+226,24445,Hungarian Grand Prix,grosjean,haas,0,4,7,3
+243,24446,Belgian Grand Prix,leclerc,ferrari,1,1,4,2
+242,24447,Belgian Grand Prix,hamilton,mercedes,2,1,3,1
+244,24448,Belgian Grand Prix,bottas,mercedes,3,1,5,2
+241,24449,Belgian Grand Prix,vettel,ferrari,4,2,2,1
+257,24450,Belgian Grand Prix,albon,red_bull,5,2,18,4
+247,24451,Belgian Grand Prix,perez,racing_point,6,2,8,3
+259,24452,Belgian Grand Prix,kvyat,toro_rosso,7,3,20,4
+252,24453,Belgian Grand Prix,hulkenberg,renault,8,3,13,4
+253,24454,Belgian Grand Prix,gasly,toro_rosso,9,3,14,4
+256,24455,Belgian Grand Prix,stroll,racing_point,10,3,17,4
+251,24456,Belgian Grand Prix,norris,mclaren,11,4,12,4
+249,24457,Belgian Grand Prix,kevin_magnussen,haas,12,4,10,3
+248,24458,Belgian Grand Prix,grosjean,haas,13,4,9,3
+250,24459,Belgian Grand Prix,ricciardo,renault,14,4,11,4
+254,24460,Belgian Grand Prix,russell,williams,15,4,15,4
+245,24461,Belgian Grand Prix,raikkonen,alfa,16,4,6,2
+240,24462,Belgian Grand Prix,kubica,williams,17,4,1,1
+258,24463,Belgian Grand Prix,giovinazzi,alfa,18,4,19,4
+255,24464,Belgian Grand Prix,sainz,mclaren,0,4,16,4
+246,24465,Belgian Grand Prix,max_verstappen,red_bull,0,4,7,3
+262,24466,Italian Grand Prix,leclerc,ferrari,1,1,3,1
+264,24467,Italian Grand Prix,bottas,mercedes,2,1,5,2
+261,24468,Italian Grand Prix,hamilton,mercedes,3,1,2,1
+265,24469,Italian Grand Prix,ricciardo,renault,4,2,6,2
+266,24470,Italian Grand Prix,hulkenberg,renault,5,2,7,3
+268,24471,Italian Grand Prix,albon,red_bull,6,2,9,3
+278,24472,Italian Grand Prix,perez,racing_point,7,3,19,4
+279,24473,Italian Grand Prix,max_verstappen,red_bull,8,3,20,4
+270,24474,Italian Grand Prix,giovinazzi,alfa,9,3,11,4
+276,24475,Italian Grand Prix,norris,mclaren,10,3,17,4
+277,24476,Italian Grand Prix,gasly,toro_rosso,11,4,18,4
+269,24477,Italian Grand Prix,stroll,racing_point,12,4,10,3
+263,24478,Italian Grand Prix,vettel,ferrari,13,4,4,2
+275,24479,Italian Grand Prix,russell,williams,14,4,16,4
+260,24480,Italian Grand Prix,raikkonen,alfa,15,4,1,1
+272,24481,Italian Grand Prix,grosjean,haas,16,4,13,4
+274,24482,Italian Grand Prix,kubica,williams,17,4,15,4
+271,24483,Italian Grand Prix,kevin_magnussen,haas,0,4,12,4
+273,24484,Italian Grand Prix,kvyat,toro_rosso,0,4,14,4
+267,24485,Italian Grand Prix,sainz,mclaren,0,4,8,3
+282,24486,Singapore Grand Prix,vettel,ferrari,1,1,3,1
+281,24487,Singapore Grand Prix,leclerc,ferrari,2,1,2,1
+283,24488,Singapore Grand Prix,max_verstappen,red_bull,3,1,4,2
+280,24489,Singapore Grand Prix,hamilton,mercedes,4,2,1,1
+284,24490,Singapore Grand Prix,bottas,mercedes,5,2,5,2
+285,24491,Singapore Grand Prix,albon,red_bull,6,2,6,2
+288,24492,Singapore Grand Prix,norris,mclaren,7,3,9,3
+291,24493,Singapore Grand Prix,gasly,toro_rosso,8,3,12,4
+287,24494,Singapore Grand Prix,hulkenberg,renault,9,3,8,3
+289,24495,Singapore Grand Prix,giovinazzi,alfa,10,3,10,3
+295,24496,Singapore Grand Prix,grosjean,haas,11,4,16,4
+286,24497,Singapore Grand Prix,sainz,mclaren,12,4,7,3
+296,24498,Singapore Grand Prix,stroll,racing_point,13,4,17,4
+299,24499,Singapore Grand Prix,ricciardo,renault,14,4,20,4
+293,24500,Singapore Grand Prix,kvyat,toro_rosso,15,4,14,4
+297,24501,Singapore Grand Prix,kubica,williams,16,4,18,4
+292,24502,Singapore Grand Prix,kevin_magnussen,haas,17,4,13,4
+290,24503,Singapore Grand Prix,raikkonen,alfa,0,4,11,4
+294,24504,Singapore Grand Prix,perez,racing_point,0,4,15,4
+298,24505,Singapore Grand Prix,russell,williams,0,4,19,4
+300,24506,Russian Grand Prix,hamilton,mercedes,1,1,1,1
+304,24507,Russian Grand Prix,bottas,mercedes,2,1,5,2
+302,24508,Russian Grand Prix,leclerc,ferrari,3,1,3,1
+309,24509,Russian Grand Prix,max_verstappen,red_bull,4,2,10,3
+301,24510,Russian Grand Prix,albon,red_bull,5,2,2,1
+305,24511,Russian Grand Prix,sainz,mclaren,6,2,6,2
+311,24512,Russian Grand Prix,perez,racing_point,7,3,12,4
+308,24513,Russian Grand Prix,norris,mclaren,8,3,9,3
+313,24514,Russian Grand Prix,kevin_magnussen,haas,9,3,14,4
+307,24515,Russian Grand Prix,hulkenberg,renault,10,3,8,3
+315,24516,Russian Grand Prix,stroll,racing_point,11,4,16,4
+319,24517,Russian Grand Prix,kvyat,toro_rosso,12,4,20,4
+314,24518,Russian Grand Prix,raikkonen,alfa,13,4,15,4
+316,24519,Russian Grand Prix,gasly,toro_rosso,14,4,17,4
+312,24520,Russian Grand Prix,giovinazzi,alfa,15,4,13,4
+317,24521,Russian Grand Prix,kubica,williams,0,4,18,4
+318,24522,Russian Grand Prix,russell,williams,0,4,19,4
+303,24523,Russian Grand Prix,vettel,ferrari,0,4,4,2
+310,24524,Russian Grand Prix,ricciardo,renault,0,4,11,4
+306,24525,Russian Grand Prix,grosjean,haas,0,4,7,3
+324,24526,Japanese Grand Prix,bottas,mercedes,1,1,5,2
+321,24527,Japanese Grand Prix,vettel,ferrari,2,1,2,1
+322,24528,Japanese Grand Prix,hamilton,mercedes,3,1,3,1
+326,24529,Japanese Grand Prix,albon,red_bull,4,2,7,3
+327,24530,Japanese Grand Prix,sainz,mclaren,5,2,8,3
+323,24531,Japanese Grand Prix,leclerc,ferrari,6,2,4,2
+330,24532,Japanese Grand Prix,gasly,toro_rosso,7,3,11,4
+337,24533,Japanese Grand Prix,perez,racing_point,8,3,18,4
+333,24534,Japanese Grand Prix,stroll,racing_point,9,3,14,4
+334,24535,Japanese Grand Prix,kvyat,toro_rosso,10,3,15,4
+329,24536,Japanese Grand Prix,norris,mclaren,11,4,10,3
+332,24537,Japanese Grand Prix,raikkonen,alfa,12,4,13,4
+328,24538,Japanese Grand Prix,grosjean,haas,13,4,9,3
+331,24539,Japanese Grand Prix,giovinazzi,alfa,14,4,12,4
+339,24540,Japanese Grand Prix,kevin_magnussen,haas,15,4,20,4
+338,24541,Japanese Grand Prix,russell,williams,16,4,19,4
+320,24542,Japanese Grand Prix,kubica,williams,16,4,1,1
+325,24543,Japanese Grand Prix,max_verstappen,red_bull,0,4,6,2
+336,24544,Japanese Grand Prix,ricciardo,renault,0,4,17,4
+335,24545,Japanese Grand Prix,hulkenberg,renault,0,4,16,4
+341,24546,Mexican Grand Prix,hamilton,mercedes,1,1,2,1
+340,24547,Mexican Grand Prix,vettel,ferrari,2,1,1,1
+345,24548,Mexican Grand Prix,bottas,mercedes,3,1,6,2
+342,24549,Mexican Grand Prix,leclerc,ferrari,4,2,3,1
+344,24550,Mexican Grand Prix,albon,red_bull,5,2,5,2
+343,24551,Mexican Grand Prix,max_verstappen,red_bull,6,2,4,2
+350,24552,Mexican Grand Prix,perez,racing_point,7,3,11,4
+353,24553,Mexican Grand Prix,ricciardo,renault,8,3,14,4
+349,24554,Mexican Grand Prix,gasly,toro_rosso,9,3,10,3
+352,24555,Mexican Grand Prix,hulkenberg,renault,10,3,13,4
+348,24556,Mexican Grand Prix,kvyat,toro_rosso,11,4,9,3
+355,24557,Mexican Grand Prix,stroll,racing_point,12,4,16,4
+346,24558,Mexican Grand Prix,sainz,mclaren,13,4,7,3
+354,24559,Mexican Grand Prix,giovinazzi,alfa,14,4,15,4
+357,24560,Mexican Grand Prix,kevin_magnussen,haas,15,4,18,4
+359,24561,Mexican Grand Prix,russell,williams,16,4,20,4
+356,24562,Mexican Grand Prix,grosjean,haas,17,4,17,4
+358,24563,Mexican Grand Prix,kubica,williams,18,4,19,4
+351,24564,Mexican Grand Prix,raikkonen,alfa,0,4,12,4
+347,24565,Mexican Grand Prix,norris,mclaren,0,4,8,3
+362,24566,United States Grand Prix,bottas,mercedes,1,1,3,1
+363,24567,United States Grand Prix,hamilton,mercedes,2,1,4,2
+364,24568,United States Grand Prix,max_verstappen,red_bull,3,1,5,2
+365,24569,United States Grand Prix,leclerc,ferrari,4,2,6,2
+366,24570,United States Grand Prix,albon,red_bull,5,2,7,3
+369,24571,United States Grand Prix,ricciardo,renault,6,2,10,3
+368,24572,United States Grand Prix,norris,mclaren,7,3,9,3
+367,24573,United States Grand Prix,sainz,mclaren,8,3,8,3
+371,24574,United States Grand Prix,hulkenberg,renault,9,3,12,4
+360,24575,United States Grand Prix,perez,racing_point,10,3,1,1
+376,24576,United States Grand Prix,raikkonen,alfa,11,4,17,4
+374,24577,United States Grand Prix,kvyat,toro_rosso,12,4,15,4
+375,24578,United States Grand Prix,stroll,racing_point,13,4,16,4
+377,24579,United States Grand Prix,giovinazzi,alfa,14,4,18,4
+373,24580,United States Grand Prix,grosjean,haas,15,4,14,4
+370,24581,United States Grand Prix,gasly,toro_rosso,16,4,11,4
+379,24582,United States Grand Prix,russell,williams,17,4,20,4
+372,24583,United States Grand Prix,kevin_magnussen,haas,18,4,13,4
+378,24584,United States Grand Prix,kubica,williams,0,4,19,4
+361,24585,United States Grand Prix,vettel,ferrari,0,4,2,1
+382,24586,Brazilian Grand Prix,max_verstappen,red_bull,1,1,3,1
+387,24587,Brazilian Grand Prix,gasly,toro_rosso,2,1,8,3
+399,24588,Brazilian Grand Prix,sainz,mclaren,3,1,20,4
+386,24589,Brazilian Grand Prix,raikkonen,alfa,4,2,7,3
+391,24590,Brazilian Grand Prix,giovinazzi,alfa,5,2,12,4
+390,24591,Brazilian Grand Prix,ricciardo,renault,6,2,11,4
+381,24592,Brazilian Grand Prix,hamilton,mercedes,7,3,2,1
+389,24593,Brazilian Grand Prix,norris,mclaren,8,3,10,3
+394,24594,Brazilian Grand Prix,perez,racing_point,9,3,15,4
+395,24595,Brazilian Grand Prix,kvyat,toro_rosso,10,3,16,4
+388,24596,Brazilian Grand Prix,kevin_magnussen,haas,11,4,9,3
+398,24597,Brazilian Grand Prix,russell,williams,12,4,19,4
+384,24598,Brazilian Grand Prix,grosjean,haas,13,4,5,2
+385,24599,Brazilian Grand Prix,albon,red_bull,14,4,6,2
+392,24600,Brazilian Grand Prix,hulkenberg,renault,15,4,13,4
+397,24601,Brazilian Grand Prix,kubica,williams,16,4,18,4
+380,24602,Brazilian Grand Prix,vettel,ferrari,17,4,1,1
+393,24603,Brazilian Grand Prix,leclerc,ferrari,18,4,14,4
+396,24604,Brazilian Grand Prix,stroll,racing_point,19,4,17,4
+383,24605,Brazilian Grand Prix,bottas,mercedes,0,4,4,2
+400,24606,Abu Dhabi Grand Prix,hamilton,mercedes,1,1,1,1
+401,24607,Abu Dhabi Grand Prix,max_verstappen,red_bull,2,1,2,1
+403,24608,Abu Dhabi Grand Prix,leclerc,ferrari,3,1,4,2
+419,24609,Abu Dhabi Grand Prix,bottas,mercedes,4,2,20,4
+402,24610,Abu Dhabi Grand Prix,vettel,ferrari,5,2,3,1
+404,24611,Abu Dhabi Grand Prix,albon,red_bull,6,2,5,2
+409,24612,Abu Dhabi Grand Prix,perez,racing_point,7,3,10,3
+405,24613,Abu Dhabi Grand Prix,norris,mclaren,8,3,6,2
+413,24614,Abu Dhabi Grand Prix,kvyat,toro_rosso,9,3,14,4
+407,24615,Abu Dhabi Grand Prix,sainz,mclaren,10,3,8,3
+406,24616,Abu Dhabi Grand Prix,ricciardo,renault,11,4,7,3
+408,24617,Abu Dhabi Grand Prix,hulkenberg,renault,12,4,9,3
+415,24618,Abu Dhabi Grand Prix,raikkonen,alfa,13,4,16,4
+414,24619,Abu Dhabi Grand Prix,kevin_magnussen,haas,14,4,15,4
+412,24620,Abu Dhabi Grand Prix,grosjean,haas,15,4,13,4
+416,24621,Abu Dhabi Grand Prix,giovinazzi,alfa,16,4,17,4
+418,24622,Abu Dhabi Grand Prix,russell,williams,17,4,19,4
+410,24623,Abu Dhabi Grand Prix,gasly,toro_rosso,18,4,11,4
+417,24624,Abu Dhabi Grand Prix,kubica,williams,19,4,18,4
+411,24625,Abu Dhabi Grand Prix,stroll,racing_point,0,4,12,4

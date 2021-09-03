@@ -1,0 +1,182 @@
+[
+    {
+        "location": "Abu Dhabi Grand Prix",
+        "dnf%": 0.1179039301,
+        "cluster1_q": "medium",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "United States Grand Prix",
+        "dnf%": 0.1518987342,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Azerbaijan Grand Prix",
+        "dnf%": 0.25,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Hungarian Grand Prix",
+        "dnf%": 0.1361702128,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "German Grand Prix",
+        "dnf%": 0.1550387597,
+        "cluster1_q": "medium",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Imola",
+        "dnf%": 0.2051282051,
+        "cluster1_q": "fast",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Turkish Grand Prix",
+        "dnf%": 0.1492537313,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Malaysian Grand Prix",
+        "dnf%": 0.2093023256,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "French Grand Prix",
+        "dnf%": 0.1052631579,
+        "cluster1_q": "fast",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "Singapore Grand Prix",
+        "dnf%": 0.2,
+        "cluster1_q": "slow",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Australian Grand Prix",
+        "dnf%": 0.25,
+        "cluster1_q": "medium",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Mexican Grand Prix",
+        "dnf%": 0.14,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Monaco Grand Prix",
+        "dnf%": 0.2701421801,
+        "cluster1_q": "slow",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Montmel\u00f3",
+        "dnf%": 0.1285140562,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Canadian Grand Prix",
+        "dnf%": 0.1848341232,
+        "cluster1_q": "medium",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Italian Grand Prix",
+        "dnf%": 0.1365638767,
+        "cluster1_q": "fast",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Mugello",
+        "dnf%": 0.3333333333,
+        "cluster1_q": "medium",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "N\u00fcrburg",
+        "dnf%": 0.1818181818,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Portim\u00e3o",
+        "dnf%": 0.0256410256,
+        "cluster1_q": "medium",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Bahrain Grand Prix",
+        "dnf%": 0.1652892562,
+        "cluster1_q": "medium",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "Chinese Grand Prix",
+        "dnf%": 0.1037735849,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "British Grand Prix",
+        "dnf%": 0.1440329218,
+        "cluster1_q": "fast",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Russian Grand Prix",
+        "dnf%": 0.1145038168,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Belgian Grand Prix",
+        "dnf%": 0.1296296296,
+        "cluster1_q": "fast",
+        "cluster2_q": "Cloudy but rarely rainy"
+    },
+    {
+        "location": "Austrian Grand Prix",
+        "dnf%": 0.1962025316,
+        "cluster1_q": "fast",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Japanese Grand Prix",
+        "dnf%": 0.0970873786,
+        "cluster1_q": "fast",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "Brazilian Grand Prix",
+        "dnf%": 0.1213592233,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Uttar Pradesh",
+        "dnf%": 0.1470588235,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    },
+    {
+        "location": "Spanish Grand Prix",
+        "dnf%": 0.1126760563,
+        "cluster1_q": "medium",
+        "cluster2_q": "Never rainy"
+    },
+    {
+        "location": "Yeongam County",
+        "dnf%": 0.1847826087,
+        "cluster1_q": "medium",
+        "cluster2_q": "Usally rainy and cloudy"
+    }
+]

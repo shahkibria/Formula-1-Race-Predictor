@@ -1,0 +1,138 @@
+statusId,status,Description
+1,Finished,Finished
+2,Disqualified,DQed
+3,Accident,Accident
+4,Collision,Accident
+5,Engine,Engine
+6,Gearbox,Transmission
+7,Transmission,Transmission
+8,Clutch,Transmission
+9,Hydraulics,Control System
+10,Electrical,Control System
+11,+1 Lap,Lapped
+12,+2 Laps,Lapped
+13,+3 Laps,Lapped
+14,+4 Laps,Lapped
+15,+5 Laps,Lapped
+16,+6 Laps,Lapped
+17,+7 Laps,Lapped
+18,+8 Laps,Lapped
+19,+9 Laps,Lapped
+20,Spun off,Accident
+21,Radiator,Engine
+22,Suspension,Chassis
+23,Brakes,Wheel Assembly
+24,Differential,Transmission
+25,Overheating,Mechanical
+26,Mechanical,Mechanical
+27,Tyre,Wheel Assembly
+28,Driver Seat,Chassis
+29,Puncture,Wheel Assembly
+30,Driveshaft,Transmission
+31,Retired,Other
+32,Fuel pressure,Mechanical
+33,Front wing,Chassis
+34,Water pressure,Control System
+35,Refuelling,Other
+36,Wheel,Wheel Assembly
+37,Throttle,Control System
+38,Steering,Control System
+39,Technical,Other
+40,Electronics,Control System
+41,Broken wing,Chassis
+42,Heat shield fire,Chassis
+43,Exhaust,Chassis
+44,Oil leak,Transmission
+45,+11 Laps,Lapped
+46,Wheel rim,Wheel Assembly
+47,Water leak,Control System
+48,Fuel pump,Control System
+49,Track rod,Transmission
+50,+17 Laps,Lapped
+51,Oil pressure,Control System
+128,+42 Laps,Lapped
+53,+13 Laps,Lapped
+54,Withdrew,Other
+55,+12 Laps,Lapped
+56,Engine fire,Engine
+129,Engine misfire,Engine
+58,+26 Laps,Lapped
+59,Tyre puncture,Wheel Assembly
+60,Out of fuel,Other
+61,Wheel nut,Wheel Assembly
+62,Not classified,Driver Safety
+63,Pneumatics,Control System
+64,Handling,Mechanical
+65,Rear wing,Chassis
+66,Fire,Chassis
+67,Wheel bearing,Wheel Assembly
+68,Physical,Chassis
+69,Fuel system,Control System
+70,Oil line,Control System
+71,Fuel rig,Control System
+72,Launch control,Control System
+73,Injured,Accident
+74,Fuel,Other
+75,Power loss,Engine
+76,Vibrations,Engine
+77,107% Rule,Other
+78,Safety,Driver Safety
+79,Drivetrain,Chassis
+80,Ignition,Engine
+81,Did not qualify,Other
+82,Injury,Accident
+83,Chassis,Chassis
+84,Battery,Engine
+85,Stalled,Engine
+86,Halfshaft,Engine
+87,Crankshaft,Engine
+88,+10 Laps,Lapped
+89,Safety concerns,Driver Safety
+90,Not restarted,Other
+91,Alternator,Engine
+92,Underweight,Driver Safety
+93,Safety belt,Chassis
+94,Oil pump,Control System
+95,Fuel leak,Control System
+96,Excluded,Other
+97,Did not prequalify,Other
+98,Injection,Engine
+99,Distributor,Engine
+100,Driver unwell,Driver Safety
+101,Turbo,Engine
+102,CV joint,Engine
+103,Water pump,Control System
+104,Fatal accident,Accident
+105,Spark plugs,Engine
+106,Fuel pipe,Control System
+107,Eye injury,Accident
+108,Oil pipe,Control System
+109,Axle,Transmission
+110,Water pipe,Control System
+111,+14 Laps,Lapped
+112,+15 Laps,Lapped
+113,+25 Laps,Lapped
+114,+18 Laps,Lapped
+115,+22 Laps,Lapped
+116,+16 Laps,Lapped
+117,+24 Laps,Lapped
+118,+29 Laps,Lapped
+119,+23 Laps,Lapped
+120,+21 Laps,Lapped
+121,Magneto,Other
+122,+44 Laps,Lapped
+123,+30 Laps,Lapped
+124,+19 Laps,Lapped
+125,+46 Laps,Lapped
+126,Supercharger,Engine
+127,+20 Laps,Lapped
+130,Collision damage,Accident
+131,Power Unit,Engine
+132,ERS,Engine
+133,+49 Laps,Lapped
+134,+38 Laps,Lapped
+135,Brake duct,Wheel Assembly
+136,Seat,Chassis
+137,Damage,Accident
+138,Debris,Accident
+139,Illness,Driver Safety

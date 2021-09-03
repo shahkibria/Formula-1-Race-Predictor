@@ -1,0 +1,459 @@
+,index,raceId,driverId,constructorId,ending_position,year,name,lap,firstlap_position,firstlap_results
+0,0,841,20,9,1,2011,Australian Grand Prix,1,1.0,Winner
+1,22,842,20,9,1,2011,Malaysian Grand Prix,1,1.0,Winner
+2,46,843,18,1,4,2011,Chinese Grand Prix,1,1.0,No Podium
+3,70,844,20,9,1,2011,Turkish Grand Prix,1,1.0,Winner
+4,93,845,4,6,5,2011,Spanish Grand Prix,1,1.0,No Podium
+5,117,846,20,9,1,2011,Monaco Grand Prix,1,1.0,Winner
+6,140,847,20,9,2,2011,Canadian Grand Prix,1,1.0,Podium
+7,164,848,20,9,1,2011,European Grand Prix,1,1.0,Winner
+8,188,849,20,9,2,2011,British Grand Prix,1,1.0,Podium
+9,212,850,1,1,1,2011,German Grand Prix,1,1.0,Winner
+10,236,851,20,9,2,2011,Hungarian Grand Prix,1,1.0,Podium
+11,260,852,3,131,6,2011,Belgian Grand Prix,1,1.0,No Podium
+12,283,853,4,6,3,2011,Italian Grand Prix,1,1.0,Podium
+13,304,854,20,9,1,2011,Singapore Grand Prix,1,1.0,Winner
+14,328,855,20,9,3,2011,Japanese Grand Prix,1,1.0,Podium
+15,352,856,20,9,1,2011,Korean Grand Prix,1,1.0,Winner
+16,376,857,20,9,1,2011,Indian Grand Prix,1,1.0,Winner
+17,399,858,1,1,1,2011,Abu Dhabi Grand Prix,1,1.0,Winner
+18,423,859,20,9,2,2011,Brazilian Grand Prix,1,1.0,Podium
+19,447,860,18,1,1,2012,Australian Grand Prix,1,1.0,Winner
+20,468,861,1,1,3,2012,Malaysian Grand Prix,1,1.0,Podium
+21,492,862,3,131,1,2012,Chinese Grand Prix,1,1.0,Winner
+22,516,863,20,9,1,2012,Bahrain Grand Prix,1,1.0,Winner
+23,540,864,4,6,2,2012,Spanish Grand Prix,1,1.0,Podium
+24,564,865,17,9,1,2012,Monaco Grand Prix,1,1.0,Winner
+25,585,866,20,9,4,2012,Canadian Grand Prix,1,1.0,No Podium
+26,609,867,20,9,0,2012,European Grand Prix,1,1.0,No Podium
+27,642,869,4,6,1,2012,German Grand Prix,1,1.0,Winner
+28,656,868,4,6,2,2012,British Grand Prix,1,1.0,Podium
+29,679,870,1,1,1,2012,Hungarian Grand Prix,1,1.0,Winner
+30,703,871,18,1,1,2012,Belgian Grand Prix,1,1.0,Winner
+31,723,872,1,1,1,2012,Italian Grand Prix,1,1.0,Winner
+32,747,873,1,1,0,2012,Singapore Grand Prix,1,1.0,No Podium
+33,771,874,20,9,1,2012,Japanese Grand Prix,1,1.0,Winner
+34,793,875,20,9,1,2012,Korean Grand Prix,1,1.0,Winner
+35,816,876,20,9,1,2012,Indian Grand Prix,1,1.0,Winner
+36,840,877,1,1,0,2012,Abu Dhabi Grand Prix,1,1.0,No Podium
+37,863,878,20,9,2,2012,United States Grand Prix,1,1.0,Podium
+38,887,879,1,1,0,2012,Brazilian Grand Prix,1,1.0,No Podium
+39,909,881,20,9,1,2013,Malaysian Grand Prix,1,1.0,Winner
+40,931,880,20,9,3,2013,Australian Grand Prix,1,1.0,Podium
+41,952,882,1,131,3,2013,Chinese Grand Prix,1,1.0,Podium
+42,974,883,3,131,9,2013,Bahrain Grand Prix,1,1.0,No Podium
+43,996,884,3,131,6,2013,Spanish Grand Prix,1,1.0,No Podium
+44,1018,885,3,131,1,2013,Monaco Grand Prix,1,1.0,Winner
+45,1040,886,20,9,1,2013,Canadian Grand Prix,1,1.0,Winner
+46,1062,887,1,131,4,2013,British Grand Prix,1,1.0,No Podium
+47,1084,888,20,9,1,2013,German Grand Prix,1,1.0,Winner
+48,1106,890,1,131,1,2013,Hungarian Grand Prix,1,1.0,Winner
+49,1128,891,20,9,1,2013,Belgian Grand Prix,1,1.0,Winner
+50,1150,892,20,9,1,2013,Italian Grand Prix,1,1.0,Winner
+51,1171,893,20,9,1,2013,Singapore Grand Prix,1,1.0,Winner
+52,1193,894,20,9,1,2013,Korean Grand Prix,1,1.0,Winner
+53,1215,895,154,208,3,2013,Japanese Grand Prix,1,1.0,Podium
+54,1235,896,20,9,1,2013,Indian Grand Prix,1,1.0,Winner
+55,1257,897,20,9,1,2013,Abu Dhabi Grand Prix,1,1.0,Winner
+56,1278,898,20,9,1,2013,United States Grand Prix,1,1.0,Winner
+57,1299,899,20,9,1,2013,Brazilian Grand Prix,1,1.0,Winner
+58,1321,900,3,131,1,2014,Australian Grand Prix,1,1.0,Winner
+59,1341,901,1,131,1,2014,Malaysian Grand Prix,1,1.0,Winner
+60,1362,902,1,131,1,2014,Bahrain Grand Prix,1,1.0,Winner
+61,1384,903,1,131,1,2014,Chinese Grand Prix,1,1.0,Winner
+62,1406,904,1,131,1,2014,Spanish Grand Prix,1,1.0,Winner
+63,1428,905,3,131,1,2014,Monaco Grand Prix,1,1.0,Winner
+64,1448,906,3,131,2,2014,Canadian Grand Prix,1,1.0,Podium
+65,1468,907,13,3,4,2014,Austrian Grand Prix,1,1.0,No Podium
+66,1490,908,3,131,0,2014,British Grand Prix,1,1.0,No Podium
+67,1510,909,3,131,1,2014,German Grand Prix,1,1.0,Winner
+68,1531,910,3,131,4,2014,Hungarian Grand Prix,1,1.0,No Podium
+69,1560,911,1,131,0,2014,Belgian Grand Prix,1,1.0,No Podium
+70,1575,912,3,131,2,2014,Italian Grand Prix,1,1.0,Podium
+71,1597,913,1,131,1,2014,Singapore Grand Prix,1,1.0,Winner
+72,1618,914,3,131,2,2014,Japanese Grand Prix,1,1.0,Podium
+73,1640,915,1,131,1,2014,Russian Grand Prix,1,1.0,Winner
+74,1661,916,3,131,2,2014,United States Grand Prix,1,1.0,Podium
+75,1680,918,1,131,1,2014,Abu Dhabi Grand Prix,1,1.0,Winner
+76,1702,926,1,131,1,2015,Australian Grand Prix,1,1.0,Winner
+77,1711,927,1,131,2,2015,Malaysian Grand Prix,1,1.0,Podium
+78,1730,928,1,131,1,2015,Chinese Grand Prix,1,1.0,Winner
+79,1750,929,1,131,1,2015,Bahrain Grand Prix,1,1.0,Winner
+80,1769,930,3,131,1,2015,Spanish Grand Prix,1,1.0,Winner
+81,1789,931,1,131,3,2015,Monaco Grand Prix,1,1.0,Podium
+82,1809,932,1,131,1,2015,Canadian Grand Prix,1,1.0,Winner
+83,1829,933,3,131,1,2015,Austrian Grand Prix,1,1.0,Winner
+84,1847,934,13,3,4,2015,British Grand Prix,1,1.0,No Podium
+85,1863,936,20,6,1,2015,Hungarian Grand Prix,1,1.0,Winner
+86,1883,937,1,131,1,2015,Belgian Grand Prix,1,1.0,Winner
+87,1902,938,1,131,1,2015,Italian Grand Prix,1,1.0,Winner
+88,1922,939,20,6,1,2015,Singapore Grand Prix,1,1.0,Winner
+89,1942,940,1,131,1,2015,Japanese Grand Prix,1,1.0,Winner
+90,1962,941,3,131,0,2015,Russian Grand Prix,1,1.0,No Podium
+91,1980,942,1,131,1,2015,United States Grand Prix,1,1.0,Winner
+92,2000,943,3,131,1,2015,Mexican Grand Prix,1,1.0,Winner
+93,2020,944,3,131,1,2015,Brazilian Grand Prix,1,1.0,Winner
+94,2039,945,3,131,1,2015,Abu Dhabi Grand Prix,1,1.0,Winner
+95,2058,948,20,6,3,2016,Australian Grand Prix,1,1.0,Podium
+96,2079,949,3,131,1,2016,Bahrain Grand Prix,1,1.0,Winner
+97,2104,224,35,3,2,1996,Australian Grand Prix,1,1.0,Podium
+98,2122,225,71,3,1,1996,Brazilian Grand Prix,1,1.0,Winner
+99,2143,226,71,3,1,1996,Argentine Grand Prix,1,1.0,Winner
+100,2166,227,35,3,1,1996,European Grand Prix,1,1.0,Winner
+101,2188,228,14,1,0,1996,San Marino Grand Prix,1,1.0,No Podium
+102,2205,229,71,3,0,1996,Monaco Grand Prix,1,1.0,No Podium
+103,2223,230,35,3,3,1996,Spanish Grand Prix,1,1.0,Podium
+104,2239,231,71,3,1,1996,Canadian Grand Prix,1,1.0,Winner
+105,2260,232,71,3,1,1996,French Grand Prix,1,1.0,Winner
+106,2283,233,35,3,1,1996,British Grand Prix,1,1.0,Winner
+107,2301,234,77,22,13,1996,German Grand Prix,1,1.0,No Podium
+108,2316,235,30,6,9,1996,Hungarian Grand Prix,1,1.0,No Podium
+109,2340,236,35,3,2,1996,Belgian Grand Prix,1,1.0,Podium
+110,2355,237,71,3,0,1996,Italian Grand Prix,1,1.0,No Podium
+111,2375,238,71,3,2,1996,Portuguese Grand Prix,1,1.0,Podium
+112,2394,239,71,3,1,1996,Japanese Grand Prix,1,1.0,Winner
+113,2410,207,49,3,8,1997,Australian Grand Prix,1,1.0,No Podium
+114,2429,208,35,3,1,1997,Brazilian Grand Prix,1,1.0,Winner
+115,2450,209,35,3,1,1997,Argentine Grand Prix,1,1.0,Winner
+116,2470,210,35,3,0,1997,San Marino Grand Prix,1,1.0,No Podium
+117,2492,211,30,6,1,1997,Monaco Grand Prix,1,1.0,Winner
+118,2512,212,35,3,1,1997,Spanish Grand Prix,1,1.0,Winner
+119,2536,213,30,6,1,1997,Canadian Grand Prix,1,1.0,Winner
+120,2555,214,30,6,1,1997,French Grand Prix,1,1.0,Winner
+121,2575,215,35,3,1,1997,British Grand Prix,1,1.0,Winner
+122,2600,216,77,22,1,1997,German Grand Prix,1,1.0,Winner
+123,2618,217,30,6,4,1997,Hungarian Grand Prix,1,1.0,No Podium
+124,2638,218,35,3,5,1997,Belgian Grand Prix,1,1.0,No Podium
+125,2664,219,55,22,2,1997,Italian Grand Prix,1,1.0,Podium
+126,2692,220,15,20,0,1997,Austrian Grand Prix,1,1.0,No Podium
+127,2709,221,57,1,0,1997,Luxembourg Grand Prix,1,1.0,No Podium
+128,2723,222,35,3,0,1997,Japanese Grand Prix,1,1.0,No Podium
+129,2746,223,30,6,0,1997,European Grand Prix,1,1.0,No Podium
+130,2771,191,57,1,1,1998,Australian Grand Prix,1,1.0,Winner
+131,2792,192,57,1,1,1998,Brazilian Grand Prix,1,1.0,Winner
+132,2812,193,14,1,6,1998,Argentine Grand Prix,1,1.0,No Podium
+133,2834,194,14,1,1,1998,San Marino Grand Prix,1,1.0,Winner
+134,2856,195,57,1,1,1998,Spanish Grand Prix,1,1.0,Winner
+135,2877,196,57,1,1,1998,Monaco Grand Prix,1,1.0,Winner
+136,2896,197,14,1,0,1998,Canadian Grand Prix,1,1.0,No Podium
+137,2909,198,30,6,1,1998,French Grand Prix,1,1.0,Winner
+138,2936,199,57,1,2,1998,British Grand Prix,1,1.0,Podium
+139,2958,200,57,1,1,1998,Austrian Grand Prix,1,1.0,Winner
+140,2978,201,57,1,1,1998,German Grand Prix,1,1.0,Winner
+141,2999,202,57,1,6,1998,Hungarian Grand Prix,1,1.0,No Podium
+142,3019,203,71,17,1,1998,Belgian Grand Prix,1,1.0,Winner
+143,3035,204,57,1,4,1998,Italian Grand Prix,1,1.0,No Podium
+144,3052,205,30,6,2,1998,Luxembourg Grand Prix,1,1.0,Podium
+145,3079,206,57,1,1,1998,Japanese Grand Prix,1,1.0,Winner
+146,3093,175,57,1,0,1999,Australian Grand Prix,1,1.0,No Podium
+147,3112,176,57,1,1,1999,Brazilian Grand Prix,1,1.0,Winner
+148,3133,177,57,1,0,1999,San Marino Grand Prix,1,1.0,No Podium
+149,3155,178,30,6,1,1999,Monaco Grand Prix,1,1.0,Winner
+150,3175,179,57,1,1,1999,Spanish Grand Prix,1,1.0,Winner
+151,3198,180,30,6,0,1999,Canadian Grand Prix,1,1.0,No Podium
+152,3229,181,22,24,3,1999,French Grand Prix,1,1.0,Podium
+153,3237,182,57,1,0,1999,British Grand Prix,1,1.0,No Podium
+154,3258,183,14,1,2,1999,Austrian Grand Prix,1,1.0,Podium
+155,3279,184,57,1,0,1999,German Grand Prix,1,1.0,No Podium
+156,3299,185,57,1,1,1999,Hungarian Grand Prix,1,1.0,Winner
+157,3322,186,14,1,1,1999,Belgian Grand Prix,1,1.0,Winner
+158,3342,187,57,1,0,1999,Italian Grand Prix,1,1.0,No Podium
+159,3369,188,49,17,0,1999,European Grand Prix,1,1.0,No Podium
+160,3384,189,30,6,2,1999,Malaysian Grand Prix,1,1.0,Podium
+161,3402,190,57,1,1,1999,Japanese Grand Prix,1,1.0,Winner
+162,3423,158,57,1,0,2000,Australian Grand Prix,1,1.0,No Podium
+163,3445,159,57,1,0,2000,Brazilian Grand Prix,1,1.0,No Podium
+164,3465,160,57,1,2,2000,San Marino Grand Prix,1,1.0,Podium
+165,3490,161,22,6,0,2000,British Grand Prix,1,1.0,No Podium
+166,3511,162,30,6,5,2000,Spanish Grand Prix,1,1.0,No Podium
+167,3530,163,57,1,2,2000,European Grand Prix,1,1.0,Podium
+168,3552,164,30,6,0,2000,Monaco Grand Prix,1,1.0,No Podium
+169,3573,165,30,6,1,2000,Canadian Grand Prix,1,1.0,Winner
+170,3595,166,30,6,0,2000,French Grand Prix,1,1.0,No Podium
+171,3615,167,57,1,1,2000,Austrian Grand Prix,1,1.0,Winner
+172,3634,168,57,1,2,2000,German Grand Prix,1,1.0,Podium
+173,3654,169,57,1,1,2000,Hungarian Grand Prix,1,1.0,Winner
+174,3676,170,57,1,1,2000,Belgian Grand Prix,1,1.0,Winner
+175,3699,171,30,6,1,2000,Italian Grand Prix,1,1.0,Winner
+176,3715,172,14,1,5,2000,United States Grand Prix,1,1.0,No Podium
+177,3736,173,57,1,2,2000,Japanese Grand Prix,1,1.0,Podium
+178,3758,174,57,1,4,2000,Malaysian Grand Prix,1,1.0,No Podium
+179,3777,141,30,6,1,2001,Australian Grand Prix,1,1.0,Winner
+180,3798,142,30,6,1,2001,Malaysian Grand Prix,1,1.0,Winner
+181,3819,143,30,6,2,2001,Brazilian Grand Prix,1,1.0,Podium
+182,3844,144,23,3,1,2001,San Marino Grand Prix,1,1.0,Winner
+183,3862,145,30,6,1,2001,Spanish Grand Prix,1,1.0,Winner
+184,3889,146,31,3,0,2001,Austrian Grand Prix,1,1.0,No Podium
+185,3905,147,30,6,1,2001,Monaco Grand Prix,1,1.0,Winner
+186,3926,148,30,6,2,2001,Canadian Grand Prix,1,1.0,Podium
+187,3947,149,30,6,1,2001,European Grand Prix,1,1.0,Winner
+188,3972,150,23,3,2,2001,French Grand Prix,1,1.0,Podium
+189,3990,151,30,6,2,2001,British Grand Prix,1,1.0,Podium
+190,4014,152,31,3,0,2001,German Grand Prix,1,1.0,No Podium
+191,4029,153,30,6,1,2001,Hungarian Grand Prix,1,1.0,Winner
+192,4050,154,30,6,1,2001,Belgian Grand Prix,1,1.0,Winner
+193,4072,155,31,3,1,2001,Italian Grand Prix,1,1.0,Winner
+194,4088,156,30,6,2,2001,United States Grand Prix,1,1.0,Podium
+195,4110,157,30,6,1,2001,Japanese Grand Prix,1,1.0,Winner
+196,4133,124,14,1,0,2002,Australian Grand Prix,1,1.0,No Podium
+197,4147,125,22,6,0,2002,Malaysian Grand Prix,1,1.0,No Podium
+198,4168,126,30,6,1,2002,Brazilian Grand Prix,1,1.0,Winner
+199,4190,127,30,6,1,2002,San Marino Grand Prix,1,1.0,Winner
+200,4210,128,30,6,1,2002,Spanish Grand Prix,1,1.0,Winner
+201,4230,129,22,6,2,2002,Austrian Grand Prix,1,1.0,Podium
+202,4252,130,14,1,1,2002,Monaco Grand Prix,1,1.0,Winner
+203,4273,131,22,6,3,2002,Canadian Grand Prix,1,1.0,Podium
+204,4295,132,22,6,1,2002,European Grand Prix,1,1.0,Winner
+205,4321,133,31,3,3,2002,British Grand Prix,1,1.0,Podium
+206,4340,134,31,3,4,2002,French Grand Prix,1,1.0,No Podium
+207,4354,135,30,6,1,2002,German Grand Prix,1,1.0,Winner
+208,4375,136,22,6,1,2002,Hungarian Grand Prix,1,1.0,Winner
+209,4394,137,30,6,1,2002,Belgian Grand Prix,1,1.0,Winner
+210,4418,138,23,3,0,2002,Italian Grand Prix,1,1.0,No Podium
+211,4434,139,30,6,2,2002,United States Grand Prix,1,1.0,Podium
+212,4454,140,30,6,1,2002,Japanese Grand Prix,1,1.0,Winner
+213,4473,108,30,6,4,2003,Australian Grand Prix,1,1.0,No Podium
+214,4500,109,4,4,3,2003,Malaysian Grand Prix,1,1.0,Podium
+215,4512,110,22,6,0,2003,Brazilian Grand Prix,1,1.0,No Podium
+216,4534,111,23,3,4,2003,San Marino Grand Prix,1,1.0,No Podium
+217,4551,112,30,6,1,2003,Spanish Grand Prix,1,1.0,Winner
+218,4568,113,30,6,1,2003,Austrian Grand Prix,1,1.0,Winner
+219,4589,114,23,3,4,2003,Monaco Grand Prix,1,1.0,No Podium
+220,4607,115,23,3,2,2003,Canadian Grand Prix,1,1.0,Podium
+221,4629,116,8,1,0,2003,European Grand Prix,1,1.0,No Podium
+222,4647,117,23,3,1,2003,French Grand Prix,1,1.0,Winner
+223,4670,118,15,4,6,2003,British Grand Prix,1,1.0,No Podium
+224,4685,119,31,3,1,2003,German Grand Prix,1,1.0,Winner
+225,4708,120,4,4,1,2003,Hungarian Grand Prix,1,1.0,Winner
+226,4721,121,30,6,1,2003,Italian Grand Prix,1,1.0,Winner
+227,4745,122,8,1,2,2003,United States Grand Prix,1,1.0,Podium
+228,4762,123,31,3,0,2003,Japanese Grand Prix,1,1.0,No Podium
+229,4780,90,30,6,1,2004,Australian Grand Prix,1,1.0,Winner
+230,4800,91,30,6,1,2004,Malaysian Grand Prix,1,1.0,Winner
+231,4820,92,30,6,1,2004,Bahrain Grand Prix,1,1.0,Winner
+232,4848,93,18,16,2,2004,San Marino Grand Prix,1,1.0,Podium
+233,4866,94,15,4,3,2004,Spanish Grand Prix,1,1.0,Podium
+234,4886,95,15,4,1,2004,Monaco Grand Prix,1,1.0,Winner
+235,4899,96,30,6,1,2004,European Grand Prix,1,1.0,Winner
+236,4920,97,23,3,0,2004,Canadian Grand Prix,1,1.0,No Podium
+237,4937,98,22,6,2,2004,United States Grand Prix,1,1.0,Podium
+238,4959,99,4,4,2,2004,French Grand Prix,1,1.0,Podium
+239,4977,100,8,1,2,2004,British Grand Prix,1,1.0,Podium
+240,4992,101,30,6,1,2004,German Grand Prix,1,1.0,Winner
+241,5012,102,30,6,1,2004,Hungarian Grand Prix,1,1.0,Winner
+242,5038,103,15,4,9,2004,Belgian Grand Prix,1,1.0,No Podium
+243,5049,104,22,6,1,2004,Italian Grand Prix,1,1.0,Winner
+244,5068,105,22,6,1,2004,Chinese Grand Prix,1,1.0,Winner
+245,5087,106,30,6,1,2004,Japanese Grand Prix,1,1.0,Winner
+246,5112,107,8,1,2,2004,Brazilian Grand Prix,1,1.0,Podium
+247,5132,71,21,4,1,2005,Australian Grand Prix,1,1.0,Winner
+248,5151,72,4,4,1,2005,Malaysian Grand Prix,1,1.0,Winner
+249,5171,73,4,4,1,2005,Bahrain Grand Prix,1,1.0,Winner
+250,5194,74,8,1,0,2005,San Marino Grand Prix,1,1.0,No Podium
+251,5212,75,8,1,1,2005,Spanish Grand Prix,1,1.0,Winner
+252,5230,76,8,1,1,2005,Monaco Grand Prix,1,1.0,Winner
+253,5249,77,8,1,11,2005,European Grand Prix,1,1.0,No Podium
+254,5266,78,21,4,0,2005,Canadian Grand Prix,1,1.0,No Podium
+255,5281,79,30,6,1,2005,United States Grand Prix,1,1.0,Winner
+256,5291,80,4,4,1,2005,French Grand Prix,1,1.0,Winner
+257,5316,81,31,1,1,2005,British Grand Prix,1,1.0,Winner
+258,5335,82,8,1,0,2005,German Grand Prix,1,1.0,No Podium
+259,5347,83,30,6,2,2005,Hungarian Grand Prix,1,1.0,Podium
+260,5373,84,8,1,1,2005,Turkish Grand Prix,1,1.0,Winner
+261,5394,85,31,1,1,2005,Italian Grand Prix,1,1.0,Winner
+262,5414,86,31,1,14,2005,Belgian Grand Prix,1,1.0,No Podium
+263,5429,87,4,4,3,2005,Brazilian Grand Prix,1,1.0,Podium
+264,5457,88,23,7,8,2005,Japanese Grand Prix,1,1.0,No Podium
+265,5466,89,4,4,1,2005,Chinese Grand Prix,1,1.0,Winner
+266,5486,53,30,6,2,2006,Bahrain Grand Prix,1,1.0,Podium
+267,5504,54,21,4,1,2006,Malaysian Grand Prix,1,1.0,Winner
+268,5532,55,18,11,10,2006,Australian Grand Prix,1,1.0,No Podium
+269,5547,56,30,6,1,2006,San Marino Grand Prix,1,1.0,Winner
+270,5564,57,4,4,2,2006,European Grand Prix,1,1.0,Podium
+271,5585,58,4,4,1,2006,Spanish Grand Prix,1,1.0,Winner
+272,5607,59,4,4,1,2006,Monaco Grand Prix,1,1.0,Winner
+273,5629,60,4,4,1,2006,British Grand Prix,1,1.0,Winner
+274,5649,61,4,4,1,2006,Canadian Grand Prix,1,1.0,Winner
+275,5673,62,13,6,2,2006,United States Grand Prix,1,1.0,Podium
+276,5689,63,30,6,1,2006,French Grand Prix,1,1.0,Winner
+277,5708,64,8,1,3,2006,German Grand Prix,1,1.0,Podium
+278,5729,65,8,1,0,2006,Hungarian Grand Prix,1,1.0,No Podium
+279,5753,66,13,6,1,2006,Turkish Grand Prix,1,1.0,Winner
+280,5771,67,8,1,2,2006,Italian Grand Prix,1,1.0,Podium
+281,5791,68,4,4,2,2006,Chinese Grand Prix,1,1.0,Podium
+282,5818,69,13,6,2,2006,Japanese Grand Prix,1,1.0,Podium
+283,5840,70,13,6,1,2006,Brazilian Grand Prix,1,1.0,Winner
+284,5861,36,8,6,1,2007,Australian Grand Prix,1,1.0,Winner
+285,5878,37,4,1,1,2007,Malaysian Grand Prix,1,1.0,Winner
+286,5903,38,13,6,1,2007,Bahrain Grand Prix,1,1.0,Winner
+287,5923,39,13,6,1,2007,Spanish Grand Prix,1,1.0,Winner
+288,5941,40,4,1,1,2007,Monaco Grand Prix,1,1.0,Winner
+289,5964,41,1,1,1,2007,Canadian Grand Prix,1,1.0,Winner
+290,5985,42,1,1,1,2007,United States Grand Prix,1,1.0,Winner
+291,6007,43,13,6,2,2007,French Grand Prix,1,1.0,Podium
+292,6025,44,1,1,3,2007,British Grand Prix,1,1.0,Podium
+293,6051,45,8,6,0,2007,European Grand Prix,1,1.0,No Podium
+294,6069,46,1,1,1,2007,Hungarian Grand Prix,1,1.0,Winner
+295,6094,47,13,6,1,2007,Turkish Grand Prix,1,1.0,Winner
+296,6112,48,4,1,1,2007,Italian Grand Prix,1,1.0,Winner
+297,6139,49,8,6,1,2007,Belgian Grand Prix,1,1.0,Winner
+298,6157,50,1,1,1,2007,Japanese Grand Prix,1,1.0,Winner
+299,6179,51,1,1,0,2007,Chinese Grand Prix,1,1.0,No Podium
+300,6204,52,13,6,2,2007,Brazilian Grand Prix,1,1.0,Podium
+301,6237,18,1,1,1,2008,Australian Grand Prix,1,1.0,Winner
+302,6240,19,13,6,0,2008,Malaysian Grand Prix,1,1.0,No Podium
+303,6261,20,13,6,1,2008,Bahrain Grand Prix,1,1.0,Winner
+304,6281,21,8,6,1,2008,Spanish Grand Prix,1,1.0,Winner
+305,6302,22,13,6,1,2008,Turkish Grand Prix,1,1.0,Winner
+306,6321,23,13,6,3,2008,Monaco Grand Prix,1,1.0,Podium
+307,6358,24,1,1,0,2008,Canadian Grand Prix,1,1.0,No Podium
+308,6360,25,8,6,2,2008,French Grand Prix,1,1.0,Podium
+309,6397,26,5,1,5,2008,British Grand Prix,1,1.0,No Podium
+310,6416,27,1,1,1,2008,German Grand Prix,1,1.0,Winner
+311,6419,28,13,6,17,2008,Hungarian Grand Prix,1,1.0,No Podium
+312,6439,29,13,6,1,2008,European Grand Prix,1,1.0,Winner
+313,6475,30,1,1,3,2008,Belgian Grand Prix,1,1.0,Podium
+314,6490,31,20,5,1,2008,Italian Grand Prix,1,1.0,Winner
+315,6498,32,13,6,13,2008,Singapore Grand Prix,1,1.0,No Podium
+316,6520,33,9,2,2,2008,Japanese Grand Prix,1,1.0,Podium
+317,6554,34,1,1,1,2008,Chinese Grand Prix,1,1.0,Winner
+318,6557,35,13,6,1,2008,Brazilian Grand Prix,1,1.0,Winner
+319,6591,1,18,23,1,2009,Australian Grand Prix,1,1.0,Winner
+320,6606,2,3,3,8,2009,Malaysian Grand Prix,1,1.0,No Podium
+321,6625,3,20,9,1,2009,Chinese Grand Prix,1,1.0,Winner
+322,6641,4,10,7,7,2009,Bahrain Grand Prix,1,1.0,No Podium
+323,6667,5,22,23,2,2009,Spanish Grand Prix,1,1.0,Podium
+324,6686,6,18,23,1,2009,Monaco Grand Prix,1,1.0,Winner
+325,6706,7,18,23,1,2009,Turkish Grand Prix,1,1.0,Winner
+326,6721,8,20,9,1,2009,British Grand Prix,1,1.0,Winner
+327,6747,9,22,23,6,2009,German Grand Prix,1,1.0,No Podium
+328,6753,10,4,4,0,2009,Hungarian Grand Prix,1,1.0,No Podium
+329,6767,11,1,1,2,2009,European Grand Prix,1,1.0,Podium
+330,6801,12,21,10,2,2009,Belgian Grand Prix,1,1.0,Podium
+331,6803,13,1,1,12,2009,Italian Grand Prix,1,1.0,No Podium
+332,6822,14,1,1,1,2009,Singapore Grand Prix,1,1.0,Winner
+333,6854,15,20,9,1,2009,Japanese Grand Prix,1,1.0,Winner
+334,6877,16,22,23,8,2009,Brazilian Grand Prix,1,1.0,No Podium
+335,6878,17,1,1,0,2009,Abu Dhabi Grand Prix,1,1.0,No Podium
+336,6902,337,20,9,4,2010,Bahrain Grand Prix,1,1.0,No Podium
+337,6926,338,20,9,0,2010,Australian Grand Prix,1,1.0,No Podium
+338,6946,339,20,9,1,2010,Malaysian Grand Prix,1,1.0,Winner
+339,6972,340,4,6,4,2010,Chinese Grand Prix,1,1.0,No Podium
+340,6990,341,17,9,1,2010,Spanish Grand Prix,1,1.0,Winner
+341,7012,342,17,9,1,2010,Monaco Grand Prix,1,1.0,Winner
+342,7035,343,17,9,3,2010,Turkish Grand Prix,1,1.0,Podium
+343,7055,344,1,1,1,2010,Canadian Grand Prix,1,1.0,Winner
+344,7082,345,20,9,1,2010,European Grand Prix,1,1.0,Winner
+345,7107,346,17,9,1,2010,British Grand Prix,1,1.0,Winner
+346,7132,347,13,6,2,2010,German Grand Prix,1,1.0,Podium
+347,7154,348,20,9,3,2010,Hungarian Grand Prix,1,1.0,Podium
+348,7175,349,1,1,1,2010,Belgian Grand Prix,1,1.0,Winner
+349,7197,350,18,1,2,2010,Italian Grand Prix,1,1.0,Podium
+350,7226,351,4,6,1,2010,Singapore Grand Prix,1,1.0,Winner
+351,7247,352,20,9,1,2010,Japanese Grand Prix,1,1.0,Winner
+352,7266,353,20,9,0,2010,Korean Grand Prix,1,1.0,No Podium
+353,7290,354,20,9,1,2010,Brazilian Grand Prix,1,1.0,Winner
+354,7313,355,20,9,1,2010,Abu Dhabi Grand Prix,1,1.0,Winner
+355,7340,917,3,131,1,2014,Brazilian Grand Prix,1,1.0,Winner
+356,7350,950,817,9,4,2016,Chinese Grand Prix,1,1.0,No Podium
+357,7372,951,3,131,1,2016,Russian Grand Prix,1,1.0,Winner
+358,7391,952,817,9,4,2016,Spanish Grand Prix,1,1.0,No Podium
+359,7411,953,817,9,2,2016,Monaco Grand Prix,1,1.0,Podium
+360,7433,954,20,6,2,2016,Canadian Grand Prix,1,1.0,Podium
+361,7455,955,3,131,1,2016,European Grand Prix,1,1.0,Winner
+362,7477,956,1,131,1,2016,Austrian Grand Prix,1,1.0,Winner
+363,7499,957,1,131,1,2016,British Grand Prix,1,1.0,Winner
+364,7521,958,1,131,1,2016,Hungarian Grand Prix,1,1.0,Winner
+365,7543,959,1,131,1,2016,German Grand Prix,1,1.0,Winner
+366,7565,960,3,131,1,2016,Belgian Grand Prix,1,1.0,Winner
+367,7586,961,3,131,1,2016,Italian Grand Prix,1,1.0,Winner
+368,7608,962,3,131,1,2016,Singapore Grand Prix,1,1.0,Winner
+369,7628,963,1,131,0,2016,Malaysian Grand Prix,1,1.0,No Podium
+370,7649,964,3,131,1,2016,Japanese Grand Prix,1,1.0,Winner
+371,7671,965,1,131,1,2016,United States Grand Prix,1,1.0,Winner
+372,7693,966,1,131,1,2016,Mexican Grand Prix,1,1.0,Winner
+373,7714,967,1,131,1,2016,Brazilian Grand Prix,1,1.0,Winner
+374,7735,968,1,131,1,2016,Abu Dhabi Grand Prix,1,1.0,Winner
+375,7757,969,1,131,2,2017,Australian Grand Prix,1,1.0,Podium
+376,7777,970,1,131,1,2017,Chinese Grand Prix,1,1.0,Winner
+377,7796,971,822,131,3,2017,Bahrain Grand Prix,1,1.0,Podium
+378,7815,972,822,131,1,2017,Russian Grand Prix,1,1.0,Winner
+379,7832,973,20,6,2,2017,Spanish Grand Prix,1,1.0,Podium
+380,7851,974,8,6,2,2017,Monaco Grand Prix,1,1.0,Podium
+381,7871,975,1,131,1,2017,Canadian Grand Prix,1,1.0,Winner
+382,7889,976,1,131,5,2017,Azerbaijan Grand Prix,1,1.0,No Podium
+383,7909,977,822,131,1,2017,Austrian Grand Prix,1,1.0,Winner
+384,7928,978,1,131,1,2017,British Grand Prix,1,1.0,Winner
+385,7946,979,20,6,1,2017,Hungarian Grand Prix,1,1.0,Winner
+386,7966,980,1,131,1,2017,Belgian Grand Prix,1,1.0,Winner
+387,7993,981,1,131,1,2017,Italian Grand Prix,1,1.0,Winner
+388,8010,982,1,131,1,2017,Singapore Grand Prix,1,1.0,Winner
+389,8029,983,1,131,2,2017,Malaysian Grand Prix,1,1.0,Podium
+390,8049,984,1,131,1,2017,Japanese Grand Prix,1,1.0,Winner
+391,8077,985,20,6,2,2017,United States Grand Prix,1,1.0,Podium
+392,8081,986,830,9,1,2017,Mexican Grand Prix,1,1.0,Winner
+393,8102,987,20,6,1,2017,Brazilian Grand Prix,1,1.0,Winner
+394,8126,988,822,131,1,2017,Abu Dhabi Grand Prix,1,1.0,Winner
+395,8156,989,1,131,2,2018,Australian Grand Prix,1,1.0,Podium
+396,8176,990,20,6,1,2018,Bahrain Grand Prix,1,1.0,Winner
+397,8177,991,20,6,8,2018,Chinese Grand Prix,1,1.0,No Podium
+398,8197,992,20,6,4,2018,Azerbaijan Grand Prix,1,1.0,No Podium
+399,8215,993,1,131,1,2018,Spanish Grand Prix,1,1.0,Winner
+400,8232,994,817,9,1,2018,Monaco Grand Prix,1,1.0,Winner
+401,8252,995,20,6,1,2018,Canadian Grand Prix,1,1.0,Winner
+402,8270,996,1,131,1,2018,French Grand Prix,1,1.0,Winner
+403,8288,997,1,131,0,2018,Austrian Grand Prix,1,1.0,No Podium
+404,8308,998,20,6,1,2018,British Grand Prix,1,1.0,Winner
+405,8328,999,20,6,0,2018,German Grand Prix,1,1.0,No Podium
+406,8348,1000,1,131,1,2018,Hungarian Grand Prix,1,1.0,Winner
+407,8367,1001,20,6,1,2018,Belgian Grand Prix,1,1.0,Winner
+408,8384,1002,8,6,2,2018,Italian Grand Prix,1,1.0,Podium
+409,8403,1003,1,131,1,2018,Singapore Grand Prix,1,1.0,Winner
+410,8422,1004,822,131,2,2018,Russian Grand Prix,1,1.0,Podium
+411,8442,1005,1,131,1,2018,Japanese Grand Prix,1,1.0,Winner
+412,8462,1006,8,6,1,2018,United States Grand Prix,1,1.0,Winner
+413,8482,1007,830,9,1,2018,Mexican Grand Prix,1,1.0,Winner
+414,8502,1008,1,131,1,2018,Brazilian Grand Prix,1,1.0,Winner
+415,8522,1009,1,131,1,2018,Abu Dhabi Grand Prix,1,1.0,Winner
+416,8541,1010,822,131,1,2019,Australian Grand Prix,1,1.0,Winner
+417,8561,1011,20,6,5,2019,Bahrain Grand Prix,1,1.0,No Podium
+418,8581,1012,1,131,1,2019,Chinese Grand Prix,1,1.0,Winner
+419,8601,1013,822,131,1,2019,Azerbaijan Grand Prix,1,1.0,Winner
+420,8621,1014,1,131,1,2019,Spanish Grand Prix,1,1.0,Winner
+421,8641,1015,1,131,1,2019,Monaco Grand Prix,1,1.0,Winner
+422,8661,1016,20,6,2,2019,Canadian Grand Prix,1,1.0,Podium
+423,8681,1017,1,131,1,2019,French Grand Prix,1,1.0,Winner
+424,8701,1018,844,6,2,2019,Austrian Grand Prix,1,1.0,Podium
+425,8721,1019,822,131,2,2019,British Grand Prix,1,1.0,Podium
+426,8741,1020,1,131,9,2019,German Grand Prix,1,1.0,No Podium
+427,8761,1021,830,9,2,2019,Hungarian Grand Prix,1,1.0,Podium
+428,8781,1022,844,6,1,2019,Belgian Grand Prix,1,1.0,Winner
+429,8800,1023,844,6,1,2019,Italian Grand Prix,1,1.0,Winner
+430,8820,1024,844,6,2,2019,Singapore Grand Prix,1,1.0,Podium
+431,8840,1025,20,6,0,2019,Russian Grand Prix,1,1.0,No Podium
+432,8859,1026,822,131,1,2019,Japanese Grand Prix,1,1.0,Winner
+433,8879,1027,844,6,4,2019,Mexican Grand Prix,1,1.0,No Podium
+434,8899,1028,822,131,1,2019,United States Grand Prix,1,1.0,Winner
+435,8938,1029,830,9,1,2019,Brazilian Grand Prix,1,1.0,Winner
+436,8939,1030,1,131,1,2019,Abu Dhabi Grand Prix,1,1.0,Winner
+437,8959,1031,822,131,1,2020,Austrian Grand Prix,1,1.0,Winner
+438,8979,1032,1,131,1,2020,Styrian Grand Prix,1,1.0,Winner
+439,8999,1033,1,131,1,2020,Hungarian Grand Prix,1,1.0,Winner
+440,9019,1034,1,131,1,2020,British Grand Prix,1,1.0,Winner
+441,9038,1035,822,131,3,2020,70th Anniversary Grand Prix,1,1.0,Podium
+442,9058,1036,1,131,1,2020,Spanish Grand Prix,1,1.0,Winner
+443,9078,1037,1,131,1,2020,Belgian Grand Prix,1,1.0,Winner
+444,9097,1038,1,131,7,2020,Italian Grand Prix,1,1.0,No Podium
+445,9117,1039,822,131,2,2020,Tuscan Grand Prix,1,1.0,Podium
+446,9135,1040,1,131,3,2020,Russian Grand Prix,1,1.0,Podium
+447,9153,1041,822,131,0,2020,Eifel Grand Prix,1,1.0,No Podium
+448,9173,1042,822,131,2,2020,Portuguese Grand Prix,1,1.0,Podium
+449,9193,1043,822,131,2,2020,Emilia Romagna Grand Prix,1,1.0,Podium
+450,9213,1044,840,211,9,2020,Turkish Grand Prix,1,1.0,No Podium
+451,9233,1045,1,131,1,2020,Bahrain Grand Prix,1,1.0,Winner
+452,9252,1046,847,131,9,2020,Sakhir Grand Prix,1,1.0,No Podium
+453,9270,1047,830,9,1,2020,Abu Dhabi Grand Prix,1,1.0,Winner
+454,9290,1052,830,9,2,2021,Bahrain Grand Prix,1,1.0,Podium
+455,9309,1053,830,9,1,2021,Emilia Romagna Grand Prix,1,1.0,Winner
+456,9328,1054,822,131,3,2021,Portuguese Grand Prix,1,1.0,Podium
+457,9348,1055,830,9,2,2021,Spanish Grand Prix,1,1.0,Podium
